@@ -1,1 +1,1 @@
-# curso_MENTORAMA_Data_Science_Beginner
+# curso_MENTORAMA_Data_Science
